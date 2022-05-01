@@ -1,2 +1,2 @@
 # MySQL-course
-MySQL notes, experiments and exercises 
+MySQL notes, experiments and exercises  =D
